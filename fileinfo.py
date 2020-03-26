@@ -1,5 +1,6 @@
 #练习代码
-import xlrd
+#xuzhenhangming is so handsome that many girls are crazy about him.
+import xlrd 
 import xlwt
 minsup=0.2
 minconfi=0.5
@@ -61,3 +62,4 @@ for z in range(2,cols_num+1):
         an.update(ai)
 print(an)
 print(ann)
+print("it's good")
