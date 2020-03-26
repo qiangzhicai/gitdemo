@@ -66,3 +66,4 @@ print("it's good")
 /*蔡志强 和 徐振航铭协作开发情况*/
 
 print ("haha");
+print ("hihi");
