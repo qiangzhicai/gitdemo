@@ -63,4 +63,9 @@ for z in range(2,cols_num+1):
 print(an)
 print(ann)
 print("it's good")
+include <stdio.h>
+int main()
+{
+	printf("hello,world");
+}
 /*蔡志强 和 徐振航铭协作开发情况*/
